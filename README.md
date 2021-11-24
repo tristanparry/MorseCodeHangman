@@ -14,7 +14,7 @@ Project Group 65's submission for their ECE 198 final prototype (1A Electrical/C
 <h3>Morse Code Alphabet</h3>
 
 > The prototype utilizes the International Morse Code Alphabet to decode user input
-> ![image_1](https://user-images.githubusercontent.com/64918749/142749605-7d02dc90-37b8-4799-bdfa-2dbbba9611f4.png)
+> ![362px-International_Morse_Code_-_letters svg](https://user-images.githubusercontent.com/64918749/143285246-d951c478-bb9b-4ef1-aaca-1377b0c95f0f.png)
 > 
 > <i>Retrieved from [CodeBug](https://www.codebug.org.uk/learn/step/540/morse-code-alphabet/)</i>
 
