@@ -21,4 +21,10 @@ Project Group 65's submission for their ECE 198 final prototype (1A Electrical/C
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<h3>Acknowledgements</h3>
+
+> Project Group 65 would like to thank instructor Bernie Roehl for his provision of microcontroller source code files (ece198.h/ece198.c)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 <i>Developed by Farzan Mirshekari & Tristan Parry, 2021</i>
