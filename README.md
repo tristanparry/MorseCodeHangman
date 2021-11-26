@@ -23,11 +23,11 @@ Project Group 65's submission for their ECE 198 final prototype (1A Electrical/C
 
 <h3>How To Play</h3>
 
-> PART I : Choosing the word <br>
+> <b>PART I:</b> <i>Choosing the word</i> <br>
 > > 1) Enter the number of letters in your chosen word by clicking once per character, followed by a long press. <br>
 > > 2) Enter the characters in the chosen letter one by one using the provided Morse code table. If a character consists of less than four dots or  dashes, end the entry with a long press. You will see the word on the display as it is being inputted. <br>
 >
-> PART II : Guessing the mystery word <br>
+> <b>PART II:</b> <i>Guessing the mystery word</i> <br>
 > > 1) You have 8 tries to guess the mystery word. <br>
 > > 2) Using the same method, enter the letter of your choice using the Morse code table. <br>
 > > 3) The remaining number of tries can be seen on the display. <br>
