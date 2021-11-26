@@ -57,11 +57,11 @@ char parse_input() {
 
 // Reads user input and fabricates a string corresponding to a morse code word
 void get_word(char * word_array, unsigned int word_length) {
-    for(int i = 0; i < word_length; ++i) {
+    for (int i = 0; i < word_length; ++i) {
         char letter[5] = {};
-        for(int i = 0; i < 4; ++i) {
+        for (int i = 0; i < 4; ++i) {
             letter[i] = parse_input();
-            if(letter[i] == '\0') {
+            if (letter[i] == '\0') {
                 break;
             }
         }
