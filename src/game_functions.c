@@ -26,7 +26,7 @@ void check_letter(char user_choice, char * chosen_word, char * encrypted_word, u
             is_in_word = true;
         }
     }
-    if(!is_in_word) {
+    if (!is_in_word) {
         --(*num_tries_left);
     }
 }
